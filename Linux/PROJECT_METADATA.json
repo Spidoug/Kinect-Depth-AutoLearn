@@ -1,0 +1,12 @@
+{
+  "project": "Kinect Depth AutoLearn",
+  "version": 1,
+  "platform": "linux",
+  "metadata_version": 1,
+  "final_model": "SynSkeleton.onnx",
+  "model_layout": "SynSkeleton_layout.json",
+  "hand_refiner_model": "SynHand.onnx",
+  "quality_report": "quality_report.json",
+  "dataset_split": "dataset_split.json",
+  "version_visibility": "metadata-only"
+}

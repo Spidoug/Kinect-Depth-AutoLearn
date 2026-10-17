@@ -1,0 +1,16 @@
+.runtime/
+app/KinectDepthAutoLearn/data/*.onnx
+app/KinectDepthAutoLearn/code/*.jar
+dataset/
+runtime_status.json
+runtime_python.txt
+install_autolearn.log
+install_autolearn.transcript.log
+*.pyc
+__pycache__/
+bridges/bin/
+*.pdb
+*.obj
+*.ilk
+
+output/*.log
